@@ -11,7 +11,7 @@ Projeto realizado durante a NLW
 
 - Cadastro de TAG
 
-    [ ] Não é permitido casdastrar mais de uma tag com o mesmo nome
+    [x] Não é permitido casdastrar mais de uma tag com o mesmo nome
 
     [ ] Não é permitido cadastrar tag sem nome
 
